@@ -1,0 +1,2 @@
+# QtSimpleJsonrpcExample
+利用Qt元对象系统实现jsonrpc服务端（与Go客户端进行远程调用测试）
